@@ -1,2 +1,1 @@
 # Self-Learning
-Hello everyone.
