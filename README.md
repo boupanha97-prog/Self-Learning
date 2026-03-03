@@ -19,7 +19,7 @@ This section organizes my study materials by topic. Each module will contain not
 
 *(This section will be updated as I explore new topics.)*
 
--   **[Module 1: Subject Name](./path-to-your-folder/)**
+-   **[Module 1: C Programming](./Modules/Programming/C/README.md)**
 -   **[Module 2: Subject Name](./path-to-your-folder/)**
 -   **[Module 3: Subject Name](./path-to-your-folder/)**
 
