@@ -1,3 +1,3 @@
 # Self-Learning
-Hello Everyone!  
+Hello everyone! Welcome to my repository.
 🧑 My name is BOU PANHA. 
