@@ -1,14 +1,35 @@
-# Self-Learning
-👋 Hello everyone! Welcome to my repository.  
-🧑 My name is BOU PANHA.​​  
+# BOU PANHA's Self-Learning Journey
 
-This is my self-study documentation space where I collect and organize research materials, code files, and learning resources.  
+👋 Welcome! My name is BOU PANHA. This repository serves as my personal knowledge library and a public journal of my self-study in Information Technology.
 
-The purpose of this document is to create a personal knowledge library where I can store everything I have learned and review it in the future. At the same time, I would like to share it with anyone who is starting their learning journey and looking for helpful resources.  
+## 🎯 Purpose
 
-I hope this space can support continuous learning, improvement, and knowledge sharing.  
+The primary goals of this repository are to:
+-   **Document my learning:** Create a structured space to store notes, code snippets, and project files.
+-   **Reinforce knowledge:** Solidify my understanding by organizing and explaining concepts.
+-   **Share with the community:** Offer resources and insights to fellow learners who might find this content helpful.
 
-Thank you for visiting and learning together.
+I believe in the power of continuous learning and open knowledge sharing.
 
 ---
-## Module
+
+## 📚 Learning Modules
+
+This section organizes my study materials by topic. Each module will contain notes, code examples, and links to useful resources.
+
+*(This section will be updated as I explore new topics.)*
+
+-   **[Module 1: Subject Name](./path-to-your-folder/)**
+-   **[Module 2: Subject Name](./path-to-your-folder/)**
+-   **[Module 3: Subject Name](./path-to-your-folder/)**
+
+---
+
+## 🧑 About Me
+
+I'm a passionate learner dedicated to growing my skills in software engineering and IT. Feel free to connect with me!
+
+-   **GitHub:** `your-username`
+-   **LinkedIn:** `your-linkedin-profile`
+
+Thank you for visiting! Let's learn and grow together.
