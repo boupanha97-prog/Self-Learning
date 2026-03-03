@@ -1,3 +1,3 @@
 # Self-Learning
 Hello Everyone!  
-My name is BOU PANHA.
+🧑 My name is BOU PANHA. 
