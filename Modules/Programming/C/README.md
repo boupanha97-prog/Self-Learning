@@ -9,6 +9,13 @@ Despite its age, C remains highly influential and widely used for systems progra
 
 This module will cover the fundamental concepts of the C language, from basic syntax to advanced topics like memory management.
 
+## Facts about C
+
+-   C is one of the most widely used and popular System Programming Languages. Many state-of-the-art software applications have been implemented using C.
+-   C was invented to write the UNIX operating system, which was almost entirely written in C.
+-   It is a successor to the B language, which was introduced in the early 1970s.
+-   The language was formalized in 1988 by the American National Standard Institute (ANSI).
+
 ## Why Learn C?
 
 For students and working professionals aiming to become great software engineers, especially in the software development domain, learning C is highly beneficial. Here are some important reasons:
