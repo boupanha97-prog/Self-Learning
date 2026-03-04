@@ -24,7 +24,23 @@ For students and working professionals aiming to become great software engineers
 -   **Efficient and Robust:** You can use C to write highly efficient code and develop robust projects, as it allows for fine-grained control over system resources.
 -   **Closer to Hardware:** As a low-level language, C allows you to interact more directly with a computer's hardware and memory. This is crucial for systems programming, developing operating systems, and working with embedded systems.
 
-## 📚 Table of Contents
+## 🚀 Hello World in C
+
+Just to give you a little excitement about C programming, here is a small, conventional "Hello, World!" program.
+
+```c
+#include <stdio.h>
+
+int main() {
+
+   /* my first program in C */
+   printf("Hello, World! \n");
+   
+   return 0;
+}
+```
+
+## � Table of Contents
 
 *(This section will be updated as new topics are added.)*
 
