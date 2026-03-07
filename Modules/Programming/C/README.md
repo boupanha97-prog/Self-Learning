@@ -14,7 +14,31 @@ The UNIX operating system, the C compiler, and essentially all UNIX application 
 -   It can handle low-level activities
 -   It can be compiled on a variety of computer platforms
 
-## 👨‍👩‍👧‍👦 Audience
+## 📜 History of C Language
+
+The history of C is a cornerstone in the evolution of computer science. Its development laid the groundwork for many modern programming technologies.
+
+### Early Roots and Creation
+The journey began with `ALGOL` in 1960, which introduced structured programming. This was followed by `BCPL` (Basic Combined Programming Language) in 1967. These languages paved the way for Ken Thompson's `B` language at Bell Labs.
+
+In the early 1970s, **Dennis Ritchie**, also at Bell Labs, developed **C** as a successor to B. The primary goal was to create a language to re-implement the UNIX operating system. C was designed to be simple, efficient, and portable, making it suitable for both system and application development.
+
+### Standardization and Evolution
+As C's popularity grew, the need for a standard became clear.
+
+-   **K&R C (1978):** Brian Kernighan and Dennis Ritchie published "The C Programming Language." This book served as an informal specification for the language, and this version became known as "K&R C".
+
+-   **ANSI C & ISO C:** To create a more formal standard, the American National Standards Institute (ANSI) and the International Organization for Standardization (ISO) began work, leading to a series of official versions:
+    -   **C89/C90:** The first official standard, which introduced many new features and became the baseline for C compilers for many years.
+    -   **C99 (1999):** Added features like inline functions, new data types (e.g., `long long int`), and C++-style single-line comments (`//`).
+    -   **C11 (2011):** Introduced multi-threading support, anonymous structures, and improved Unicode support.
+    -   **C17/C18 (2018):** The current standard, which primarily consists of technical corrections and clarifications for C11, without adding new features.
+    -   **C23 (Upcoming):** The next major revision, expected to introduce several new keywords and features.
+
+### Lasting Influence
+C's design principles, syntax, and control structures have profoundly influenced a vast number of other languages, including **C++, Java, C#, Python, and JavaScript**. Its combination of low-level memory access and high-level abstractions has cemented its place as a foundational language in both academia and industry.
+
+## �‍👩‍👧‍👦 Audience
 
 This tutorial is designed for software programmers with a need to understand the C programming language starting from scratch. This C tutorial will give you enough understanding on C programming language from where you can take yourself to a higher level of expertise.
 
